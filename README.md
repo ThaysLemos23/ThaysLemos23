@@ -1,7 +1,8 @@
 <h1 align="center">👩‍💻 Thays Ryvellyn</h1>
 
 <p align="center">
-💻 Estudante de programação | Focada em Backend
+  💻 Backend Developer em formação <br>
+  🚀 Focada em evoluir todos os dias na programação
 </p>
 
 ---
@@ -9,14 +10,13 @@
 ## 🚀 Sobre mim
 
 🎯 Focada em desenvolvimento backend  
-📚 Atualmente aprendendo POO  
-💡 Buscando evoluir e aprender novas tecnologias  
+📚 Atualmente estudando **POO em Java**   
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/POO-Programming-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github"/>
@@ -27,19 +27,20 @@
 
 ## 📌 Projetos
 
-🚀 Desenvolvendo projetos pessoais para praticar Java  
-🧩 Criando pequenos sistemas e exercícios para evoluir minhas habilidades  
+🚀 Desenvolvendo projetos pessoais em Java  
+🧩 Criando pequenos sistemas e exercícios práticos  
 
 ---
 
-## 🌱 Atualmente estudando
+## 🌱 Atualmente aprendendo
 
-📘 Programação Orientada a Objetos em Java
+📘 Estruturas de Dados  
 
 ---
 
 ## ✨ Soft Skills
- 
+
+✔️ Persistente  
 ✔️ Resiliente  
 ✔️ Prestativa  
 ✔️ Organização e gestão de tempo  
@@ -55,4 +56,4 @@
 
 ## 🌟 Objetivo
 
-Crescer como desenvolvedora backend e conquistar minha primeira oportunidade na área de tecnologia 🚀
+Conquistar minha primeira oportunidade como desenvolvedora backend e crescer na área de tecnologia 🚀
